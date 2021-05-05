@@ -10,10 +10,6 @@ Projeto desenvolvido em pouco tempo, apenas como estudo, HTML e CSS não possuem
 
 
 
-![E:\workspace_front\Calculadora IMC\img](E:\workspace_front\Calculadora IMC\img\htmlcssjs-details.png)
-
-
-
 Pedro Lisboa
 
 :pig:
